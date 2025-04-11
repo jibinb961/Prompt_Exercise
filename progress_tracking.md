@@ -1,6 +1,6 @@
 # Space Exploration Dataset Project Progress Log
 
-## Initial Setup - [Current Date]
+## Initial Setup 
 
 - Initialized Git repository
 - Selected dataset topic: Space Exploration Missions (1970-1999)
