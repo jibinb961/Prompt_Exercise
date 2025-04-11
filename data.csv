@@ -1,0 +1,49 @@
+year,mission_name,mission_type,success,participating_countries,scientific_impact
+1970,Luna 16,Lunar,True,USSR,7
+1970,Luna 17,Lunar,True,USSR,8
+1971,Mariner 9,Mars,True,USA,9
+1971,Mars 2,Mars,False,USSR,3
+1971,Mars 3,Mars,True,USSR,6
+1972,Pioneer 10,Jupiter,True,USA,9
+1972,Luna 20,Lunar,True,USSR,5
+1973,Pioneer 11,Jupiter/Saturn,True,USA,8
+1973,Skylab,Space Station,True,USA,7
+1974,Mariner 10,Mercury/Venus,True,USA,8
+1975,Venera 9,Venus,True,USSR,9
+1975,Viking 1,Mars,True,USA,10
+1976,Viking 2,Mars,True,USA,8
+1977,Voyager 1,Outer Planets,True,USA,10
+1977,Voyager 2,Outer Planets,True,USA,10
+1978,Pioneer Venus,Venus,True,USA,7
+1978,International UV Explorer,Solar System,True,USA/UK/ESA,6
+1979,Venera 11,Venus,True,USSR,7
+1979,Venera 12,Venus,True,USSR,7
+1981,Venera 13,Venus,True,USSR,8
+1982,Venera 14,Venus,True,USSR,7
+1983,Pioneer 10,Interstellar Space,True,USA,8
+1983,Venera 15,Venus,True,USSR,6
+1984,Vega 1,Venus/Halley,True,USSR,9
+1985,Vega 2,Venus/Halley,True,USSR,9
+1985,Giotto,Halley's Comet,True,ESA,8
+1986,Mir,Space Station,True,USSR,9
+1988,Phobos 1,Mars,False,USSR,1
+1988,Phobos 2,Mars,False,USSR,4
+1989,Magellan,Venus,True,USA,9
+1989,Galileo,Jupiter,True,USA,10
+1990,Hubble Space Telescope,Solar System,False,USA/ESA,10
+1990,Ulysses,Solar,True,ESA/USA,8
+1992,Mars Observer,Mars,False,USA,0
+1993,Mars Global Surveyor,Mars,True,USA,9
+1994,Clementine,Lunar,True,USA,7
+1995,Galileo,Jupiter,True,USA,9
+1995,SOHO,Solar,True,ESA/USA,9
+1996,Mars Pathfinder,Mars,True,USA,8
+1996,Mars 96,Mars,False,Russia,0
+1997,Cassini-Huygens,Saturn,True,USA/ESA/Italy,10
+1997,Mars Global Surveyor,Mars,True,USA,8
+1998,Lunar Prospector,Lunar,True,USA,7
+1998,Deep Space 1,Asteroid/Comet,True,USA,6
+1998,Mars Climate Orbiter,Mars,False,USA,0
+1999,Mars Polar Lander,Mars,False,USA,0
+1999,Deep Space 2,Mars,False,USA,0
+1999,Stardust,Comet,True,USA,8 
